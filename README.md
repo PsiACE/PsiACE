@@ -1,3 +1,5 @@
+![psiace logo](https://raw.githubusercontent.com/PsiACE/logo/main/logo.png)
+
 <div align="center">
     <h1>
         Chojan Shang
