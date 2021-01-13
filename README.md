@@ -1,4 +1,6 @@
-![psiace logo](https://raw.githubusercontent.com/PsiACE/logo/main/logo.png)
+<p align="center">
+<img height="256" src="https://raw.githubusercontent.com/PsiACE/logo/main/logo.png"/>
+</p>
 
 <div align="center">
     <h1>
@@ -25,7 +27,10 @@ Hi, I'm Chojan Shang, a Chinese college student who is about to graduate, majori
 - :thinking: Waiting to start a suitable career, maybe you can give me a chance?
 - :computer: Thinking, Coding, Writing
 
-  ![Chojan's github stats](https://github-readme-stats.vercel.app/api?username=psiace&count_private=true) 
+<p align="center">
+<img height="200" src="https://github-readme-stats.vercel.app/api?username=psiace&count_private=true&show_icons=true"/>
+<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=psiace&hide=html,jupyter+notebook&count_private=true&show_icons=true"/>
+</p>
   
 </details>
 
