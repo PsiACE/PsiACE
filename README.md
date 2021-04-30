@@ -17,7 +17,11 @@
 
 ### Intro
 
-Hi, I'm Chojan Shang, a Chinese college student who is about to graduate, majoring in computer science and coding for my own interests.
+Hi, I'm Chojan Shang, majoring in computer science and coding for my own interests. 
+
+In addition to writing my own projects, I also contribute code to my favorite open source community. In my spare time, I do some translation and writing work, and introduce technology to the Chinese community. 
+
+**I don’t have a formal job now, if you are willing to hire me, please feel free to contact me .**
 
 <details open>
 <summary><strong>:label: Check my current status</strong></summary>
